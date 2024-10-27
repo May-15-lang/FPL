@@ -1,3 +1,4 @@
+// Perform Ternary operations
 #include <stdio.h>
 
 int main() {
