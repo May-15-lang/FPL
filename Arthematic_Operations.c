@@ -1,4 +1,4 @@
-// arithmetic_operations.c
+// Program to perform Arthematic Operations
 #include <stdio.h>
 
 int main() {
